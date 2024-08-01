@@ -1,3 +1,7 @@
+## Original developer 🖥️
+
+<img src="https://i.ibb.co.com/BCPkVxq/ss.png" />
+
 <p align="center">
   Twitter clone built in Next.js + TypeScript + Tailwind CSS using Cloud Firestore and Storage
 </p>
