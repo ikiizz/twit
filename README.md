@@ -1,10 +1,6 @@
-## Original developer 🖥️
+<p align="center">Twitter clone built in Next.js + TypeScript + Tailwind CSS using Cloud Firestore and Storage</p>
 
-<img src="https://camo.githubusercontent.com/3edcea6cb3707c01474bf096e62c0f3eeca2d14084b0574c409138c822e1cc14/68747470733a2f2f692e6962622e636f2e636f6d2f4243506b5678712f73732e706e67"/>
-
-<p align="center">
-  Twitter clone built in Next.js + TypeScript + Tailwind CSS using Cloud Firestore and Storage
-</p>
+## Original developer: <a href="https://github.com/ccrsxx">@ccrsxx</a> 🧑‍💻
 
 ## Features ✨
 
